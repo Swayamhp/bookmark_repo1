@@ -1,4 +1,4 @@
-```markdown
+
 # Troubleshooting Supabase Realtime
 
 ### Problems Encountered
